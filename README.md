@@ -5,3 +5,8 @@ A collection of awesome things regarding React ecosystem.
 ### Ruby
 
 - [rails.id](https://rails.id/) - Dokumentasi belajar Ruby berbahasa indonesia
+
+### Golang
+
+- [Kodingin](https://kodingin.com/web-development/golang/) - Dasar-dasar golang
+- [Belajar Framework Gin](https://kodingin.com/web-development/gin-gonic/) - Membuat Web App dengan Framework GIN
