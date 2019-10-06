@@ -5,6 +5,8 @@ A collection of awesome things regarding React ecosystem.
 ### Ruby
 
 - [rails.id](https://rails.id/) - Dokumentasi belajar Ruby berbahasa indonesia
+- [Blog Serba Ruby](https://www.rubypedia.com/) - RubyPedia.com adalah situs yang menyediakan tutorial & screencast pemrogramman ruby dengan bahasa indonesia.
+
 
 ### Golang
 
@@ -15,5 +17,12 @@ A collection of awesome things regarding React ecosystem.
 
 - [Panduan Lengkap Belajar Laravel](https://www.malasngoding.com/category/laravel/) - 41 Session
 
+### Codeigniter 
+
+- [Panduan Lengkap Belajar Codeigniter](https://www.malasngoding.com/category/codeigniter/)
+
+### Typescript
+
+- [Kumpulan Artikel tentang Typescript](https://www.jihadwaspada.com/) By Jihad Waspada
 
 
